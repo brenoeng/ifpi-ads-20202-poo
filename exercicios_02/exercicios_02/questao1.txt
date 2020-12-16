@@ -1,0 +1,2 @@
+Para compilar deve ser utilizado javac Avaliacao.java
+e para executar deve ser utilizado java Avaliacao

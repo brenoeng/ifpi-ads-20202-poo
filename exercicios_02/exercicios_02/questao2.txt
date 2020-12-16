@@ -1,0 +1,2 @@
+O código irá apresentar erro de compilação pois o método main não está definido corretamente.
+Deve ser definido da seguinte forma: public static void main(String[] args)

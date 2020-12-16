@@ -1,0 +1,3 @@
+Iniccialmente as variáveis a e b são inicializadas.
+Depois o código entra na condicional if e executa a segunda condição pois as variáveis não 
+atendem as duas condições simultaneamente. 
